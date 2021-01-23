@@ -53,8 +53,10 @@ class Load_ACF {
 						'id' => '',
 					],
 					'choices' => [
-						'left' => __('Vänster', 'kntnt-kadence-theme-featured-image-alignment'),
+						'left' => __('Left', 'kntnt-kadence-theme-featured-image-alignment'),
+						'33.33%' => __('Left third', 'kntnt-kadence-theme-featured-image-alignment'),
 						'center' => __('Center', 'kntnt-kadence-theme-featured-image-alignment'),
+						'66.67%' => __('Right third', 'kntnt-kadence-theme-featured-image-alignment'),
 						'right' => __('Right', 'kntnt-kadence-theme-featured-image-alignment'),
 					],
 					'default_value' => 'center',
@@ -80,7 +82,9 @@ class Load_ACF {
 					],
 					'choices' => [
 						'top' => __('Top', 'kntnt-kadence-theme-featured-image-alignment'),
+						'33.33%' => __('Top third', 'kntnt-kadence-theme-featured-image-alignment'),
 						'center' => __('Center', 'kntnt-kadence-theme-featured-image-alignment'),
+						'66.67%' => __('Bottom third', 'kntnt-kadence-theme-featured-image-alignment'),
 						'bottom' => __('Bottom', 'kntnt-kadence-theme-featured-image-alignment'),
 					],
 					'default_value' => 'center',
