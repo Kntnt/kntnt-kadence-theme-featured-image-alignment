@@ -8,7 +8,7 @@
  * Plugin URI:        https://github.com/Kntnt/kntnt-kadence-theme-featured-image-alignment
  * GitHub Plugin URI: https://github.com/Kntnt/kntnt-kadence-theme-featured-image-alignment
  * Description:       Provides settings to choose alignment of posts' featured image. Depends on ACF.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
