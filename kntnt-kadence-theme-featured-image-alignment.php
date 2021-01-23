@@ -5,7 +5,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Kntnt Featured Image Alignment for Kadence Theme
- * Plugin URI:        https://www.kntnt.com/
+ * Plugin URI:        https://github.com/Kntnt/kntnt-kadence-theme-featured-image-alignment
  * GitHub Plugin URI: https://github.com/Kntnt/kntnt-kadence-theme-featured-image-alignment
  * Description:       Provides settings to choose alignment of posts' featured image. Depends on ACF.
  * Version:           1.0.0
